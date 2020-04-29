@@ -22,5 +22,7 @@
 	<classpathentry kind="src" path="ObserverPattern"/>
 	<classpathentry kind="src" path="StatePattern"/>
 	<classpathentry kind="src" path="CompositePattern"/>
+	<classpathentry kind="src" path="BridgePattern"/>
+	<classpathentry kind="src" path="FlyweightPattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
